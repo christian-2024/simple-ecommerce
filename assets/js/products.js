@@ -103,7 +103,7 @@ produtos.forEach((produto) => {
 
 //parte de whatsapp
 produtos.forEach((produto) => {
-  var phoneNumber = "5519971671573";
+  var phoneNumber = "5519000000000";
   var message = "Olá, gostaria de saber mais sobre o produto, ";
   var cod = produto.codigo;
   var productTitle = produto.titulo;
